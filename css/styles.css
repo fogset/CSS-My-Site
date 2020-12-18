@@ -1,5 +1,5 @@
 div{
-  background-color: #E4F9F5;
+
 
 }
 h1{
@@ -13,6 +13,7 @@ h2{
   font-size: 2.5rem;
   color: #66BFBF;
   font-weight: normal;
+  padding-bottom: 10px;
 }
 h3{
   font-family: 'Montserrat', sans-serif;
@@ -23,6 +24,16 @@ body{
   text-align: center;
   font-family: 'Caveat', cursive;
   font-size: 150%;
+  color: #40514E;
+}
+p{
+  font-size: 110%;
+}
+hr{
+  border:dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
 }
 
 .top-container{
@@ -31,13 +42,17 @@ body{
   padding-top: 100px;
 }
 .middle-container{
-
+  margin: 100px 0;
 }
 .bottom-container{
 
 }
 .pro{
   text-decoration: underline;
+}
+.Intro{
+  width: 50%;
+  margin: auto;
 }
 .bottom-cloud{
   position:absolute;
